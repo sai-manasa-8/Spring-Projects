@@ -1,5 +1,5 @@
 # Spring-Projects
-This is a spring project which tracks customer information and updates in db.This is a generic project which has its applications in almost all the areas of business which need customer information to be stored in a db.It performs all the CRUD operations on db.
+This project is an attempt to easily track customer information using SpingMVC and hibernate.This is a generic project which has its applications in almost all the areas of business which need customer information to be stored in a db.It performs all the CRUD operations on db.
 
 Dependencies : SpringMVC,Hibernate
 
